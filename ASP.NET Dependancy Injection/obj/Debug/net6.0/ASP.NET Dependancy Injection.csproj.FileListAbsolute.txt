@@ -1,0 +1,30 @@
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\bin\Debug\net6.0\appsettings.json
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\bin\Debug\net6.0\ASP.NET Dependancy Injection.staticwebassets.runtime.json
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\bin\Debug\net6.0\ASP.NET Dependancy Injection.exe
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\bin\Debug\net6.0\ASP.NET Dependancy Injection.deps.json
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\bin\Debug\net6.0\ASP.NET Dependancy Injection.runtimeconfig.json
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\bin\Debug\net6.0\ASP.NET Dependancy Injection.dll
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\bin\Debug\net6.0\ASP.NET Dependancy Injection.pdb
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\ASP.NET Dependancy Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\ASP.NET Dependancy Injection.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\ASP.NET Dependancy Injection.AssemblyInfo.cs
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\ASP.NET Dependancy Injection.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\ASP.NET Dependancy Injection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\ASP.NET Dependancy Injection.RazorAssemblyInfo.cache
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\ASP.NET Dependancy Injection.RazorAssemblyInfo.cs
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\staticwebassets\msbuild.ASP.NET Dependancy Injection.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\staticwebassets\msbuild.build.ASP.NET Dependancy Injection.props
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Dependancy Injection.props
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASP.NET Dependancy Injection.props
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\scopedcss\bundle\ASP.NET Dependancy Injection.styles.css
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\scopedcss\projectbundle\ASP.NET Dependancy Injection.bundle.scp.css
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\ASP.NET Dependancy Injection.dll
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\refint\ASP.NET Dependancy Injection.dll
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\ASP.NET Dependancy Injection.pdb
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\ASP.NET Dependancy Injection.genruntimeconfig.cache
+C:\Users\hasan\source\repos\ASP.NET Dependancy Injection\ASP.NET Dependancy Injection\obj\Debug\net6.0\ref\ASP.NET Dependancy Injection.dll
